@@ -9,7 +9,7 @@ Versions:
 - BubbleOS v1.1.0 RELEASE.py is an update to v1.0.0
 
 What's comming up next?
-- BubbleOS v1.2.0 RELEASE.py is planned to be released relatively soon. It will consist of fixes the files app, the addition of a document editor app, and hopefully, better and/or custom desktop backgrounds.
+- BubbleOS v1.2.0 RELEASE.py is planned to be released relatively soon. It will consist of fixes to the files app, the addition of a document editor app, and hopefully, better and/or custom desktop backgrounds.
 
 Thank you!
 - Bubble1296
