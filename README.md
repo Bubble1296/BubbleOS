@@ -1,2 +1,1 @@
-# BubbleOS
-BubbleOS is an operating system simulator written in Python.
+BubbleOS is an operating system that is developed in Python. It was created by Bubble1296 as a fun project and to learn more about how to program in Python. It is intended to run on top of the current OS on the user's machine. THIS IS NOT A FINISHED PROJECT AND HAS MANY BUGS.
