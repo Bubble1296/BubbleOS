@@ -1,4 +1,4 @@
-BubbleOS is an operating system that is developed in Python. It was created by Bubble1296 as a fun project and to learn more about how to program in Python. It is intended to run on top of the current OS on the user's machine in a separate window so that the user can switch between the two. THIS IS NOT A FINISHED PROJECT AND HAS MANY BUGS.
+BubbleOS is an operating system that is developed in Python. It was created by Bubble12 as a fun project and to learn more about how to program in Python. It is intended to run on top of the current OS on the user's machine in a separate window so that the user can switch between the two. THIS IS NOT A FINISHED PROJECT AND HAS MANY BUGS.
 
 Versions:
 - BubbleOS Developer File.py is used for the developers only. They will upload their changes to Github.
@@ -13,4 +13,4 @@ What's comming up next?
 
 Thank you!
 
-  Bubble1296
+  Bubble12
