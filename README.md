@@ -24,6 +24,19 @@ What's comming up next?
 - BubbleOS v1.2.0 RELEASE.py is planned to be released relatively soon. It will consist of fixes to the files app, the addition of a document editor app, and, draggable windows so that there will no longer be separate tabs, and hopefully, better and/or custom desktop backgrounds.
 - There is a known issue that is relatively minor, but to brand new users who do not have the required libraries installed for Python, including Tkinter, will receive an error message in their Terminal indicating that BubbleOS is calling for a missing library (usually Tkinter). We are working on making a screen that detects brand new users and asks them if they would like to install the missing libraries.
 
+Sneak peeks (v1.1.0):
+----------------------
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 56 PM" src="https://github.com/user-attachments/assets/56bb6889-6df3-45c8-9a50-a27e48a1c37a" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 04 03 PM" src="https://github.com/user-attachments/assets/37823ca5-7f44-402a-bde4-de232718b74f" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 02 43 PM" src="https://github.com/user-attachments/assets/91516ea1-fe2b-4e78-8037-b77c7130b9c2" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 35 PM" src="https://github.com/user-attachments/assets/6d8badaa-94af-4c72-8f74-def1b97e1a7c" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 25 PM" src="https://github.com/user-attachments/assets/02286d05-b758-44cc-b854-f2a8b7f82f9b" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 17 PM" src="https://github.com/user-attachments/assets/487c856a-8776-48e4-a2ac-0c7d5f741d83" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 11 PM" src="https://github.com/user-attachments/assets/442e5cff-6346-44d0-9a1a-7dc4735ceb74" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 02 PM" src="https://github.com/user-attachments/assets/142ceb22-b00c-45f5-bcc5-9aea62e0955d" />
+<img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 02 54 PM" src="https://github.com/user-attachments/assets/0d51182a-55af-4990-84a2-1a48777d4fb3" />
+
+
 Thank you!
 
   Bubble12
