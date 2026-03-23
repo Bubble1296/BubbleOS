@@ -34,20 +34,21 @@ Versions:
 - BubbleOS v0.2 RELEASE.py is the second release file for BubbleOS. It consists of minor changes compared to v0.1.
 - BubbleOS v1.0.0 RELEASE.py NOT to be confused with v0.1. This major overhaul brought a proper clickable mouse UI, as well as a major rework on the system as a whole, including apps. Note the new file naming.
 - BubbleOS v1.1.0 RELEASE.py is an update to v1.0.0
+- BubbleOS v1.2.0 RELEASE.py is the first version of BubbleOS to receive an official word document processor app
+- BubbleOS v1.3.0 RELEASE.py FINALLY ADDED DRAGGABLE WINDOWS!!!
 
-Current Features (v1.1.0):
+Current Features (v1.3.0):
 --------------------------
-- Boot animation
+- Updated boot animation
 - Desktop environment
 - Taskbar
-- Window system
-- Built-in applications
 - Web browser using TkinterWeb
+- DRAGGABLE WINDOWS!! No more pesky tabs!
 
 What's coming up next?
 -----------------------
-- BubbleOS v1.2.0 RELEASE.py is planned to be released relatively soon. It will consist of the addition of a document editor app, and minor bug fixes.
-- There is a known issue that is relatively minor, but to brand new users who do not have the required libraries installed for Python, including Tkinter, will receive an error message in their Terminal indicating that BubbleOS is calling for a missing library (usually Tkinter). We are working on making a screen that detects brand new users and asks them if they would like to install the missing libraries. However, this is not planned to be released in v1.2.0, and only in the near future if it is decided upon that it is necessary.
+- BubbleOS v1.4.0 RELEASE.py is planned to be released relatively soon. It will consist of minor bug fixes, and hopefully a personalization update in the Settings app.
+- There is a known issue that is relatively minor, but to brand new users who do not have the required libraries installed for Python, including Tkinter, will receive an error message in their Terminal indicating that BubbleOS is calling for a missing library (usually Tkinter). We are working on making a screen that detects brand new users and asks them if they would like to install the missing libraries. However, this is not planned to be released in v1.4.0, and only in the near future if it is decided upon that it is necessary. (CURRENTLY NOT IN DEVELOPMENT)
 
 Screenshots (BubbleOS v1.1.0):
 -----------------------------
