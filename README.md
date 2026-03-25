@@ -47,7 +47,7 @@ Current Features (v1.3.0):
 
 What's coming up next?
 -----------------------
-- BubbleOS v1.4.0 RELEASE.py is planned to be released relatively soon. It will consist of minor bug fixes, and hopefully a personalization update in the Settings app.
+- BubbleOS v1.4.0 RELEASE.py is planned to be released relatively soon. It will consist of minor bug fixes, and hopefully a personalization update in the Settings app, among other things.
 - There is a known issue that is relatively minor, but to brand new users who do not have the required libraries installed for Python, including Tkinter, will receive an error message in their Terminal indicating that BubbleOS is calling for a missing library (usually Tkinter). We are working on making a screen that detects brand new users and asks them if they would like to install the missing libraries. However, this is not planned to be released in v1.4.0, and only in the near future if it is decided upon that it is necessary. (CURRENTLY NOT IN DEVELOPMENT)
 
 Screenshots (BubbleOS v1.1.0):
