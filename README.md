@@ -66,3 +66,8 @@ Screenshots (BubbleOS v1.1.0):
 Thank you!
 
   Bubble12
+
+
+
+
+*DISCLAIMER: Some code was assisted by Google Gemini AI, for educational purposes and bug fixes.*
