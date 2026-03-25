@@ -2,10 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
-![Platform](https://img.shields.io/badge/Platform-macOS%20%2F%20Darwin-lightgrey)
+![Student Project](https://img.shields.io/badge/Project-Student%20built-orange)
+![Student Project](https://img.shields.io/badge/Student%20Project-BubbleOS-00ffff)
 ![Status](https://img.shields.io/badge/Maintained%3F-Yes-green)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
-![Project](https://img.shields.io/badge/Project-BubbleOS%20v1.3-blue)
 
 A desktop environment and OS simulator built with Python, Tkinter, and TkinterWeb.
 
