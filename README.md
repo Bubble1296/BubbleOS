@@ -1,11 +1,10 @@
 ## BubbleOS
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/status-in%20development-orange)
-![Student Project](https://img.shields.io/badge/Project-Student%20built-orange)
-![Student Project](https://img.shields.io/badge/Student%20Project-BubbleOS-00ffff)
-![Status](https://img.shields.io/badge/Maintained%3F-Yes-green)
-![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/BubbleOS-v1.3.0-33ddff?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suite-BubbleSystems-0078d4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" />
+</p>
 
 A desktop environment and OS simulator built with Python, Tkinter, and TkinterWeb.
 
