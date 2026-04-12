@@ -10,7 +10,7 @@ A desktop environment and OS simulator built with Python, Tkinter, and TkinterWe
 
 About BubbleOS:
 ---------------
-BubbleOS is a Python-based operating system simulator. It was created by Bubble12 and his friends as a fun project and to learn more about how to program in Python. It is intended to run alongside the host operating system on the user's machine in a separate window so that the user can switch between them. Please be patient for updates to roll out as this is being made in our free time. Thank you!
+BubbleOS is a Python-based operating system simulator. It was created by mainly by Bubble1296 with some support from his friends as a fun project and to learn more about how to program in Python. It is intended to run alongside the host operating system on the user's machine in a separate window so that the user can switch between them. Please be patient for updates to roll out as this is being made in our free time. Thank you!
 
 ⚠️ BubbleOS is still under development and may contain bugs. ⚠️
 
