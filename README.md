@@ -65,6 +65,11 @@ Screenshots (BubbleOS v1.1.0):
 <img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 03 02 PM" src="https://github.com/user-attachments/assets/142ceb22-b00c-45f5-bcc5-9aea62e0955d" />
 <img width="1280" height="800" alt="Screen Shot 2026-03-10 at 10 02 54 PM" src="https://github.com/user-attachments/assets/0d51182a-55af-4990-84a2-1a48777d4fb3" />
 
+Website
+---------
+https://bubble1296.github.io/
+
+
 
 Thank you!
 
